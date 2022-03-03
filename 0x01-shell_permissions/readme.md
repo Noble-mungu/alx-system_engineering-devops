@@ -1,1 +1,3 @@
-readme.md
+#!/bin/bash
+
+Readme
